@@ -7,7 +7,7 @@ namespace Store.Memory
     {
         private readonly Proj[] projs = new[]
         {
-            new Proj(1, "Art Of Programing"),
+            new Proj(1, "Art Of Programming"),
             new Proj(2, "Refactoring"),
             new Proj(3, "C Programming Language"),
         };
